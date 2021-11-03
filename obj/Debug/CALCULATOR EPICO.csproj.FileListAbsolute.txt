@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Storage\Digital Programing\.NET\Proyectos\CALCULATOR EPICO\bin\Debug\CALCULATOR EPICO.exe.config
+C:\Users\User\Desktop\Storage\Digital Programing\.NET\Proyectos\CALCULATOR EPICO\bin\Debug\CALCULATOR EPICO.exe
+C:\Users\User\Desktop\Storage\Digital Programing\.NET\Proyectos\CALCULATOR EPICO\bin\Debug\CALCULATOR EPICO.pdb
+C:\Users\User\Desktop\Storage\Digital Programing\.NET\Proyectos\CALCULATOR EPICO\obj\Debug\CALCULATOR EPICO.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Storage\Digital Programing\.NET\Proyectos\CALCULATOR EPICO\obj\Debug\CALCULATOR EPICO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Storage\Digital Programing\.NET\Proyectos\CALCULATOR EPICO\obj\Debug\CALCULATOR EPICO.exe
+C:\Users\User\Desktop\Storage\Digital Programing\.NET\Proyectos\CALCULATOR EPICO\obj\Debug\CALCULATOR EPICO.pdb
